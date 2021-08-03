@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Itunes Search</string>
+
+    <string name="artwork">artwork</string>
+    <string name="search">Search</string>
+    <string name="blur_background">blur_background</string>
+</resources>
